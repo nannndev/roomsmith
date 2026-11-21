@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Haus",
+  "description": "A 3D architectural room builder and interior design game with custom multi-room layouts, procedural furniture, PBR surfaces, and design commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
